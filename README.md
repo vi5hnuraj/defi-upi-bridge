@@ -128,4 +128,4 @@ npm run dev
 *Web3 & Full-Stack Developer*
 
 Building modern, scalable, and decentralized products bridging standard fintech rails with the decentralized Web3 future.
-thank you
+Thank Y0U
